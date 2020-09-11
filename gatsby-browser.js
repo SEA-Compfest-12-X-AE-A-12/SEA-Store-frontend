@@ -5,3 +5,9 @@
  */
 
 // You can delete this file if you're not using it
+import "./src/global.css"
+// // import './src/sass/app.scss'
+// import 'jquery/dist/jquery.min.js'
+// import 'popper.js/dist/popper.min'
+import bootstrap from "bootstrap"; // eslint-disable-line no-unused-vars
+import "./node_modules/bootstrap/dist/css/bootstrap.min.css";
