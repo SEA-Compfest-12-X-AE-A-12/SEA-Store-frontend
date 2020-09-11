@@ -2,7 +2,7 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import { ItemList } from "../components/organism/items";
+import { ItemList } from "../components/organism/item-list";
 
 const IndexPage = () => (
   <Layout>
