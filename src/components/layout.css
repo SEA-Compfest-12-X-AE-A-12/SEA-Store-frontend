@@ -595,3 +595,21 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.btn {
+  background-color: #E9C46B;
+}
+
+.header-menu {
+  color: #264653;
+  font: bold 1.15rem "Open Sans";
+}
+
+.navbar {
+  background-color: #F4A261;
+}
+
+.title-brand {
+  color: #264653;
+  font: bold 2rem "Open Sans";
+}
